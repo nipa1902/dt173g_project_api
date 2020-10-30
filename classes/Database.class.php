@@ -8,10 +8,7 @@ class Database {
     //private $username = "dt173g_projekt";
     //private $password = "password";
 
-    private $host = "studentmysql.miun.se";
-    private $db_name = "nipa1902";
-    private $username = "nipa1902";
-    private $password = "yv76n718";
+    // SQL info removed. 
     public $conn;
 
 
